@@ -1,0 +1,25 @@
+body {
+    background-color: #222;
+}
+
+a {
+    font-size: 18px;
+}
+
+.white_hr {
+    height: 3px;
+    width: 100px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 2%;
+    margin-bottom: 1.5%;
+    text-transform: uppercase;
+}
+
+.red {
+    color: red;
+    font-style: italic;
+}
